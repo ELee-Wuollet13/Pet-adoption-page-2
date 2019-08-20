@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+}
+
+.adoptable {
+  width: 22%;
+  float: left;
+  border: 2px black solid;
+  border-radius: 10px;
+  padding: 20px 10px;
+  margin-right: 10px;
+  background-color: #CC998D;
+}
+
+h1 {
+  padding: 25px 0 50px 0;
+}
+
+h2 {
+  padding-bottom: 40px
+}
+
+.center {
+  text-align: center;
+}
+
+#firstPet {
+  margin-left: 10px;
+}
+
+#lastPet {
+  margin-right: 0;
+}
+
+.adoptable img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.adoptable h2 {
+
+}
+
+.adoptable p {
+
+}
