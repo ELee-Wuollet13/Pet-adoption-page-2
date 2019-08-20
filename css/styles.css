@@ -2,6 +2,15 @@
   margin: 0;
 }
 
+body {
+  background-image: url("../assets/grass.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  /* background-color: green; */
+}
+
 .adoptable {
   width: 22%;
   float: left;
@@ -43,4 +52,12 @@ h2 {
 
 .adoptable p {
 
+}
+
+.adaptable ul {
+
+}
+
+.adoptable li {
+  color: blue;
 }
